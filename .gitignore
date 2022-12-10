@@ -6,3 +6,4 @@ sdist/
 *.egg-info/
 *.egg
 .tox/
+logs/
